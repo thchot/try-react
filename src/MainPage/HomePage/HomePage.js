@@ -21,6 +21,7 @@ class HomePage extends React.Component {
                 >
                     <Box className="search-section-box" component="div">
                         <Box className="search-section" component="section">
+                            <Box className="search-section-header"><h2>Find your next favorite trail</h2></Box>
                             <Box className="seachbox-holder-boundary">
                                 <Box className="searbox-holder" component="div">
                                     <Box className="searbox-icon-holder"><SearchIcon className="search-button-icon" /></Box>
