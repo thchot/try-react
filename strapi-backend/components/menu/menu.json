@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "name": "menu",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "menuitem": {
+      "type": "string"
+    }
+  }
+}

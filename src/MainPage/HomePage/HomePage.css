@@ -1,0 +1,73 @@
+.search-section-box {
+    display: block;
+    position: static;
+}
+.search-section {
+    height: 30rem;
+    background-image: url(../../images/Markha-Valley-Trail-1-new-2560x1280.jpg);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.seachbox-holder-boundary {
+    
+    position: relative;
+    margin: auto;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    height: 5rem;
+}
+
+.searbox-holder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 0.5rem;
+}
+
+#standard-search {
+    margin: 0;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.808);
+    color: black;
+    width: 30rem;
+    height: 3rem;
+    font-size: 2rem;
+    padding: 0.3rem;
+}
+
+#standard-search-label {
+    color: black;
+    text-decoration-color: black;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.searbox-icon-holder {
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+    margin: auto;
+}
+
+.search-button {
+    background-color: green;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border-radius: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.search-button:hover {
+    background-color: lightgreen;
+}
+
+.another-section {
+    text-align: center;
+    padding: 10rem;
+}
