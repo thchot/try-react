@@ -6,14 +6,17 @@
     height: 30rem;
     background-image: url(../../images/Markha-Valley-Trail-1-new-2560x1280.jpg);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
+    justify-content: center;
+    vertical-align: middle;
 }
 
 .seachbox-holder-boundary {
     
     position: relative;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     vertical-align: middle;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.5);
@@ -70,4 +73,10 @@
 .another-section {
     text-align: center;
     padding: 10rem;
+}
+
+.search-section-header {
+    color: white;
+    margin: 0 auto 0 auto;
+    font-size: 2.5rem;
 }
