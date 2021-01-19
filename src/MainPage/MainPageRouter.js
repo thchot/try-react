@@ -22,6 +22,7 @@ class MainPageRouter extends React.Component {
             disableGutters={true}
             maxWidth={false}
             className="main"
+            style= {{height: '100vh'}}
           >
           About
           </Container>
