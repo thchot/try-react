@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/try-react/static/css/main.47bd341e.chunk.css",
-    "main.js": "/try-react/static/js/main.754c580f.chunk.js",
-    "main.js.map": "/try-react/static/js/main.754c580f.chunk.js.map",
+    "main.css": "/try-react/static/css/main.c01db029.chunk.css",
+    "main.js": "/try-react/static/js/main.7ceee00c.chunk.js",
+    "main.js.map": "/try-react/static/js/main.7ceee00c.chunk.js.map",
     "runtime-main.js": "/try-react/static/js/runtime-main.7a2b2712.js",
     "runtime-main.js.map": "/try-react/static/js/runtime-main.7a2b2712.js.map",
-    "static/js/2.93da1240.chunk.js": "/try-react/static/js/2.93da1240.chunk.js",
-    "static/js/2.93da1240.chunk.js.map": "/try-react/static/js/2.93da1240.chunk.js.map",
+    "static/js/2.1ff98e8b.chunk.js": "/try-react/static/js/2.1ff98e8b.chunk.js",
+    "static/js/2.1ff98e8b.chunk.js.map": "/try-react/static/js/2.1ff98e8b.chunk.js.map",
     "static/js/3.e4bd8260.chunk.js": "/try-react/static/js/3.e4bd8260.chunk.js",
     "static/js/3.e4bd8260.chunk.js.map": "/try-react/static/js/3.e4bd8260.chunk.js.map",
     "index.html": "/try-react/index.html",
-    "static/css/main.47bd341e.chunk.css.map": "/try-react/static/css/main.47bd341e.chunk.css.map",
-    "static/js/2.93da1240.chunk.js.LICENSE.txt": "/try-react/static/js/2.93da1240.chunk.js.LICENSE.txt",
+    "static/css/main.c01db029.chunk.css.map": "/try-react/static/css/main.c01db029.chunk.css.map",
+    "static/js/2.1ff98e8b.chunk.js.LICENSE.txt": "/try-react/static/js/2.1ff98e8b.chunk.js.LICENSE.txt",
     "static/media/HomePage.css": "/try-react/static/media/Markha-Valley-Trail-1-new-2560x1280.e022c2f5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a2b2712.js",
-    "static/js/2.93da1240.chunk.js",
-    "static/css/main.47bd341e.chunk.css",
-    "static/js/main.754c580f.chunk.js"
+    "static/js/2.1ff98e8b.chunk.js",
+    "static/css/main.c01db029.chunk.css",
+    "static/js/main.7ceee00c.chunk.js"
   ]
 }
