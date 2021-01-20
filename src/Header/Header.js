@@ -40,7 +40,7 @@ class Header extends React.Component {
             </Box>
             <Box className="app-name-box">
               <Typography variant="h6" style={{ flexGrow: 1 }} >
-                APP
+                <RouterLink to="/" style={{ cursor: "pointer"}}>APP</RouterLink>
               </Typography>
             </Box>
             <Box className="desktop-menu-box">
