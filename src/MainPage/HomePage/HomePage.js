@@ -3,9 +3,8 @@ import Container from '@material-ui/core/Container';
 
 import Box from '@material-ui/core/Box';
 import { } from "./HomePage.css"
-import SearchIcon from '@material-ui/icons/Search';
 import { Input, Button, Paper } from '@material-ui/core';
-import { VerticalAlignCenter } from '@material-ui/icons';
+import SearchBox from '../../components/SearchBox/SearchBox'
 
 
 class HomePage extends React.Component {
@@ -21,18 +20,8 @@ class HomePage extends React.Component {
                 >
                     <Box className="search-section-box" component="div">
                         <Box className="search-section" component="section">
-                            <Box className="seachbox-holder-boundary">
-                                <Box className="searbox-holder" component="div">
-                                    <Box className="searbox-icon-holder"><SearchIcon className="search-button-icon" /></Box>
-                                    <Input placeholder="Enter a trail, city or town"
-                                        margin="none"
-                                        id="standard-search"
-                                        disableUnderline="true"
-                                        type="text"
-                                        autoFocus="true" />
-                                    <Button className="search-button">Search</Button>
-                                </Box>
-                            </Box>
+                            <Box className="search-section-header"><h2>Find your next favorite trail</h2></Box>
+                            <SearchBox/>
                         </Box>
                     </Box>
 
